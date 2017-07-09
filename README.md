@@ -12,6 +12,45 @@ An introduction to SQL using a beer example.
 * [Chapter 6](chapter_6.md)
 * [Chapter 7](chapter_7.md)
 
+## FAQ
+
+### Who's this for?
+Well, it's for anyone who wants to know a little SQL.
+
+### What do I need to know to get started?
+You should have a bit of programming knowledge and not be afraid of the
+command line.
+
+### I'm afraid of the command line. What now?
+A good resource for the command line is Michael Hartl's [Learn Enough Command Line to be
+Dangerous] (https://www.learnenough.com/command-line-tutorial).
+
+### Do you like beer or what?
+I have one a month whether I need it or not.
+
+### Why'd you choose beer for this then?
+It had the variety I was looking for to generate some reasonable but not
+too large data sets.
+
+### What are the `.rb` files in here?
+Those are ruby files I used to generate the data for the database. You
+don't really need them, but they're there if you want to look at them.
+
+### The ruby code's not very good in some places.
+No, no it's not.
+
+### So, I should just cut/paste this into the SQL console?
+No, please don't do that. You'll learn far more by typing in everything
+yourself. After you've typed it in, try different things.
+
+### Umm ... that beer list is pretty long, you really want me to type that in?
+Nah ... I'd cut/paste that one. But, do make sure you know what it's
+doing.
+
+### Anything else I should know?
+Nope, just go hack some code now.
+
+
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/slabounty/sql_and_beer. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
