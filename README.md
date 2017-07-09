@@ -26,6 +26,32 @@ command line.
 A good resource for the command line is Michael Hartl's [Learn Enough Command Line to be
 Dangerous] (https://www.learnenough.com/command-line-tutorial).
 
+### Will I be a SQL ninja/rockstar/god after this?
+No.
+
+### Will I be a SQL expert after this?
+No.
+
+### Will I be a SQL mid-level after this?
+Probably not.
+
+### Will I be a SQL novice after this?
+Probably.
+
+### But you're a SQL ninja/rockstar/god, right?
+LOL!
+
+### OK, but a SQL expert?
+Nope.
+
+### SQL mid-level (and I'm getting disappointed in you here)
+Maybe?
+
+### Fine, so what makes you qualified to write this?
+A keyboard mostly. OK ... and a desire to possibly help people with
+something that might have helped me a bit when I was trying to learn
+SQL.
+
 ### Do you like beer or what?
 I have one a month whether I need it or not.
 
